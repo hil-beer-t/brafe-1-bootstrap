@@ -18,7 +18,7 @@ Open index.html
 * HTML
 * CSS
 * JS
-* Bootstrap 3(https://getbootstrap.com/docs/3.3/)
+* [Bootstrap 3](https://getbootstrap.com/docs/3.3/)
 
 ## Authors
 
