@@ -1,6 +1,6 @@
 # Brafé
 
-Simple Coffee Store.
+Simple Coffee Store using Bootstrap.
 
 ![Brafe-1-bootstrap](https://user-images.githubusercontent.com/52302576/82130566-dd35ad00-97a2-11ea-8c72-99abe8cee88a.png)
 
