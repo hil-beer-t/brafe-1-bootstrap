@@ -1,8 +1,8 @@
-# Brafé
+# Brafé 1
 
-Simple Coffee Store using Bootstrap.
+Simple pure HTML/CSS static page of a coffe store using Bootstrap 3.
 
-![Brafe-1-bootstrap](https://user-images.githubusercontent.com/52302576/82130566-dd35ad00-97a2-11ea-8c72-99abe8cee88a.png)
+![brafe-1-bootstrap](https://user-images.githubusercontent.com/52302576/82131648-cc3e6900-97ad-11ea-878c-6556794cddcd.png)
 
 
 ## Getting Started
@@ -17,8 +17,7 @@ Open index.html
 
 * HTML
 * CSS
-* JS
-* [Bootstrap 3](https://getbootstrap.com/docs/3.3/)
+* Bootstrap 3
 
 ## Authors
 
